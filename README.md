@@ -45,7 +45,7 @@ Navigate & click on the <b>Download Button</b> present on the bottom-left of you
 <br>
 <b>Step 5 :-</b>
 <br>
-Finally save the file <b>GetPass.exe</b>at desired location on your local computer.
+Finally save the file <b>GetPass.exe</b> at desired location on your local computer.
 <br>
 <br>
 <b>Step 6 :-</b>
