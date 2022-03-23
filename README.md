@@ -4,12 +4,11 @@
   Thank you for being here!✨
 </h1>
 
-GetPass has been created as a simple program which can be used to generate safe random passwords.
-
 <p align="center">
   This repository contains <b>Password Generator Application</b>.🤓
-</p>
+	<br>GetPass has been created as a simple program which can be used to generate safe random passwords.
 
+</p>
 <br>
 
 <div align="center">
@@ -17,6 +16,8 @@ GetPass has been created as a simple program which can be used to generate safe 
   <a href="https://www.github.com/SinhaAnishKumar/GetPass"> Here.✨</a>
 </div>
 
+<br>
+<br>
 <b>This progam is only supported on Windows OS</b>
 <br>
 Download this awesome program coded by <b>Anish Kumar Sinha</b>, following instructions mentioned below. 👇
