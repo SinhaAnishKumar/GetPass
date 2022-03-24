@@ -60,7 +60,7 @@ Enjoy🎉</b>
 * Yes, you can fork this repo.😊
 * GetPass is completely safe to use.  
 * This application is developed for learning and educational purposes only.
-* Try this application at your own risk, Developer will not be resposible for any mishappening in future.
+* Try this application at your own risk, Developer will not be resposible for any mishappening.
 
 <br>
 <br>
