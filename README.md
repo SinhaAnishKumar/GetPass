@@ -57,9 +57,9 @@ Navigate & open the <b>Application</b> folder.
 <br>
 Double click on <b>GetPass.exe</b>.
 <br>
-Now GetPass Is All Yours.💕
+<b>Now GetPass Is All Yours.💕
 <br>
-Enjoy🎉
+Enjoy🎉</b>
 <br>
 <br>
 <br>
