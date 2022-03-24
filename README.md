@@ -25,36 +25,45 @@ Download this awesome program coded by <b>Anish Kumar Sinha</b>, following instr
 <br>
 <b>Step 1 :-</b>
 <br>
-Go to <a href="https://www.github.com/SinhaAnishKumar/GetPass"> This Repository.✨</a>
+Go to<a href="https://github.com/SinhaAnishKumar/GetPass/releases"> Releases.✨</a>
 <br>
 <br>
 <b>Step 2 :-</b>
 <br>
-Navigate to <b>Application</b> folder
+Navigate & click on the <b>Source Code (zip)</b> present on the bottom of your screen.
 <br>
 <br>
 <b>Step 3 :-</b>
 <br>
-Click on the file named <b>GetPass.exe</b>
+Finally save the file <b>GetPass-1.0.zip</b> at desired location on your local computer.
 <br>
 <br>
 <b>Step 4 :-</b>
 <br>
-Navigate & click on the <b>Download Button</b> present on the bottom-left of your screen.
+Now, Extract the file <b>GetPass-1.0.zip</b>
 <br>
 <br>
 <b>Step 5 :-</b>
 <br>
-Finally save the file <b>GetPass.exe</b> at desired location on your local computer.
+Navigate & open the <b>GetPass-1.0</b> folder.
 <br>
 <br>
 <b>Step 6 :-</b>
 <br>
-<b>Now, Click on GetPass.exe, It's All Yours.💕
-<br>
-Enjoy🎉</b>
+Navigate & open the <b>Application</b> folder.
 <br>
 <br>
+<b>Step 7 :-</b>
+<br>
+Double click on <b>GetPass.exe</b>.
+<br>
+Now GetPass Is All Yours.💕
+<br>
+Enjoy🎉
+<br>
+<br>
+<br>
+	
 
 <b>Note:-</b>
 * Yes, you can fork this repo.😊
